@@ -1,0 +1,9 @@
+---
+title: "Georges Monette's github page"
+output: html_document
+---
+
+This page, under construction, will provide links to a few projects to which I have contributed.
+
+- R Packages
+  - [cv](https://gmonette.github.io/cv): a package with methods for faster cross-validation
